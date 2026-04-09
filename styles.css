@@ -1,0 +1,24 @@
+img{
+    height: 550px;
+    width: 200px;
+    padding: 30px;
+    margin: 5px;
+}
+
+.encabezadoPrincipal{
+    text-align:center;
+    text-decoration: underline;
+}
+
+.info{
+    text-align:center;
+}
+
+.amarillo{
+    color:yellow;
+    text-decoration:underline;
+}
+
+.contenedor{
+    text-align:center;
+}
